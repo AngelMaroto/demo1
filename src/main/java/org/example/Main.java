@@ -8,9 +8,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         IO.println(String.format("Hello and welcome!"));
 
-
-
             int x =28;
+
+        System.out.println(x);
 
         }
     }
